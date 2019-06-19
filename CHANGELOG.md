@@ -1,3 +1,7 @@
+## 2.3.0 [unreleased]
+
+- Added support for Postgres 12 beta 1
+
 ## 2.2.1
 
 - Added `config_path` option
